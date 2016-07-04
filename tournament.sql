@@ -14,7 +14,7 @@ player_name TEXT );
 CREATE TABLE matches (
 match_id SERIAL PRIMARY KEY,
 winner INTEGER REFERENCES players(player_id) NOT NULL,
-winner INTEGER REFERENCES players(player_id) NOT NULL
+loser INTEGER REFERENCES players(player_id) NOT NULL
 );
 
 
