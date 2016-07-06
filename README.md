@@ -37,3 +37,24 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
      \c tournament
      You are now connected to database "tournament" as user "vagrant".
     ```
+# Creating the tables
+ 
+  - We can create tables in 2 ways namely,
+ 
+     1) Run the following command after login into the tournament data base,
+    
+     ```python
+      \i tournament.sql
+    ```
+    
+     2) You can also copy and paste the create table queries one by one
+     
+# Testing the module
+
+  Run the following command to test the python module using the following command,
+  
+       ```python
+       python tournament_test.py
+    ```
+  
+    
