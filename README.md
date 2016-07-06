@@ -54,9 +54,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
   Run the following command to test the python module using the following command,
   
-       ```python
+      ```python
        python tournament_test.py
-       
-       ```
+    ```
   
     
