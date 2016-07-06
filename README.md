@@ -37,6 +37,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
      \c tournament
      You are now connected to database "tournament" as user "vagrant".
     ```
+    
 # Creating the tables
  
   - We can create tables in 2 ways namely,
@@ -55,6 +56,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   
        ```python
        python tournament_test.py
-    ```
+       
+       ```
   
     
