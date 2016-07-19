@@ -1,5 +1,5 @@
 # Swiss Tournament
-A simple Python module to store , retrieve and handle a Swiss based Tournament Informatioon
+A simple Python module to store , retrieve and handle a Swiss based Tournament Information
 
 # Getting Started
 
